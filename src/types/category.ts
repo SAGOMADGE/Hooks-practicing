@@ -1,6 +1,6 @@
 export type Category =
   | 'all'
-  | 'beaty'
+  | 'beauty'
   | 'fragrances'
-  | 'Furniture'
-  | 'Groceries';
+  | 'furniture'
+  | 'groceries';
